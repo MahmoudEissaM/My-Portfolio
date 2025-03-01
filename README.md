@@ -129,7 +129,7 @@
   <img src="assets/img/About.JPG" alt="About Page" width="400">
   <img src="assets/img/Portfolio.JPG" alt="Projects Page" width="400">
   <img src="assets/img/Resume.JPG" alt="Resume Page" width="400">
-  <img src="assets/img/Service.png" alt="Service & Contact Page" width="400">
+  <img src="assets/img/Service.JPG" alt="Service & Contact Page" width="400">
 </p>
 
 <hr>
