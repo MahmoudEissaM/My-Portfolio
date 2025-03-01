@@ -42,22 +42,6 @@
 
 <hr>
 
-<h2>📂 Project Structure</h2>
-
-<pre>
-portfolio/
-├── assets/
-│   ├── css/
-│   ├── js/
-│   ├── img/
-│   └── vendor/
-├── index.html
-├── about.html
-├── projects.html
-├── contact.html
-└── README.md
-</pre>
-
 <hr>
 
 <h2>🚀 How to Use</h2>
