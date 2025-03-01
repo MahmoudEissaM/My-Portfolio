@@ -125,10 +125,11 @@
 <h2>📸 Screenshots</h2>
 
 <p align="center">
-  <img src="assets/img/screenshots/home.png" alt="Home Page" width="400">
-  <img src="assets/img/screenshots/about.png" alt="About Page" width="400">
-  <img src="assets/img/screenshots/projects.png" alt="Projects Page" width="400">
-  <img src="assets/img/screenshots/contact.png" alt="Contact Page" width="400">
+  <img src="assets/img/Home.JPG" alt="Home Page" width="400">
+  <img src="assets/img/About.JPG" alt="About Page" width="400">
+  <img src="assets/img/Portfolio.JPG" alt="Projects Page" width="400">
+  <img src="assets/img/Resume.JPG" alt="Resume Page" width="400">
+  <img src="assets/img/Service.png" alt="Service & Contact Page" width="400">
 </p>
 
 <hr>
